@@ -1,0 +1,11 @@
+I am sure you’ve heard about Duolingo: a popular language-learning app, which
+gamibes practicing a new language. It is quite popular due to its innovative styles
+of teaching a foreign language.The concept is simple: bve to ten minutes of
+interactive training a day is enough to learn a language.
+However, even though Duolingo is enabling people to learn a new language, it’s
+practitioners had a concern. People felt they were missing out on learning
+valuable conversational skills since they were learning on their own. People were
+also apprehensive about being paired with other language learners due to fear of
+embarrassment. This was turning out be a big bottleneck in Duolingo’s plans.
+So their team solved this problem by building a native chatbot within its app, to
+help users learn conversational skills and practice what they learned
